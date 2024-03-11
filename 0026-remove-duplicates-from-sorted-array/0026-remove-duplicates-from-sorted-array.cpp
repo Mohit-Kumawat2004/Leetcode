@@ -21,15 +21,15 @@ public:
 /*
 int removeDuplicates(vector<int>& nums) {
         int n=nums.size();
-        int m=1;
+        int i=0;
         
-        for(int i=1;i<n;i++) 
+        for(int j=1;j<n;j++) 
         {
-            if(nums[i]!=nums[i-1])
+            if(nums[i]!=nums[j])
             {
-                //stroing val in kth index then increasing index of k
-                nums[m++]=nums[i];
+                //Take my place and comes to my position 
+                nums[i++]=nums[j];
             }
         }
-        return m;
+        return i+1;
 */
