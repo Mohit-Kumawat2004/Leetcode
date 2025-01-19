@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0812-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+## Sorting
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->
