@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0012-integer-to-roman) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Array
 |  |
 | ------- |
