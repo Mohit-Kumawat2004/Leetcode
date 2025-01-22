@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Array
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0812-rotate-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -55,4 +58,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2145-grid-game](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2145-grid-game) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
