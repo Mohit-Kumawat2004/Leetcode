@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0048-rotate-image) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0048-rotate-image) |
 | [0407-trapping-rain-water-ii](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0048-rotate-image) |
 | [0407-trapping-rain-water-ii](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1876-map-of-highest-peak) |
