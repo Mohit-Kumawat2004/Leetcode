@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0049-group-anagrams) |
 | [0407-trapping-rain-water-ii](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0035-search-insert-position) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Simulation
 |  |
