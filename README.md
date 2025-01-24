@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0049-group-anagrams) |
 | [0407-trapping-rain-water-ii](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [1025-minimum-cost-for-tickets](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1396-count-servers-that-communicate](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1876-map-of-highest-peak](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-minimum-cost-for-tickets](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 <!---LeetCode Topics End-->
