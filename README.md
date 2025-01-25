@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Breadth-First Search
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0049-group-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Prefix Sum
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph
 |  |
 | ------- |
