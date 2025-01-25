@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2580-circular-sentence) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Array
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2145-grid-game](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Trie
 |  |
 | ------- |
