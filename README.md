@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Sorting
 |  |
