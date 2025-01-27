@@ -166,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-minimum-cost-for-tickets](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
