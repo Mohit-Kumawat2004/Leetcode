@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0684-redundant-connection](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1558-course-schedule-iv) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1558-course-schedule-iv) |
@@ -148,11 +150,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
