@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1876-map-of-highest-peak](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2145-grid-game](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2145-grid-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
