@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0048-rotate-image) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3429-special-array-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0054-spiral-matrix) |
 | [2232-adding-spaces-to-a-string](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Depth-First Search
 |  |
 | ------- |
