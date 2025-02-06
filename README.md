@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Array
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0015-3sum) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
 |  |
 | ------- |
