@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2434-design-a-number-container-system](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [2434-design-a-number-container-system](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
@@ -221,4 +223,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
