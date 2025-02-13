@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Mohit-Kumawat2004/Leetcode/tree/master/3429-special-array-i) |
