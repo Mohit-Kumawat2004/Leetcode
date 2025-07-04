@@ -34,7 +34,7 @@
 </pre>
 
 <p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+<p><strong>Constraints:</strong></p> 
 
 <ul>
 	<li><code>m == grid.length</code></li>
