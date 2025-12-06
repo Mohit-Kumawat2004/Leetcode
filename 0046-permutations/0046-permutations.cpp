@@ -4,7 +4,7 @@ private:
         //base case
         if(index >= nums.size()){
             ans.push_back(nums);
-            return;
+            return; 
         }
         
         for(int j=index;j<nums.size();j++){
