@@ -5,7 +5,7 @@ public:
         if(open == 0 && close == 0){
             ans.push_back(op);
             return;
-        }
+        } 
 
         if(open != 0){
             op += "(";
