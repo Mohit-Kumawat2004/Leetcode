@@ -6,7 +6,7 @@ class Solution {
         
         Arrays.fill(arr,-1);            //initialize all -1
         
-        for(int i=0;i<nums.length;i++)
+        for(int i=0;i<nums.length;i++)  
         {
             if(nums[i] == target && f==0)          //first fill
             {
